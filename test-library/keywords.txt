@@ -1,0 +1,4 @@
+addz	KEYWORD1
+lesz	KEYWORD1
+suma	KEYWORD2
+resta	KEYWORD2
